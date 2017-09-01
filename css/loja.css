@@ -1,0 +1,29 @@
+body {
+    padding-top: 70px;
+}
+
+.principal {
+	margin-top: 70px;
+	margin-left: -110px;
+	text-align: center;
+	align-content: left;
+}
+
+.secundaria{
+	margin-top: 70px;
+	text-align: left;	
+}
+
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none !important;
+}
+
+.navbar .navbar-collapse {
+	text-align: center;
+}
+
+.corrige-tela{
+	width: 500px;
+	height: 250px;
+}
